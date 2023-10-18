@@ -14,6 +14,7 @@ import { styles, theme } from "../theme";
 import { HeartIcon } from "react-native-heroicons/solid";
 import { LinearGradient } from "expo-linear-gradient";
 import Cast from "../components/cast";
+import MovieList from "../components/movieList";
 
 const ios = Platform.OS == "ios";
 const topMargin = ios ? "" : " mt-3";
@@ -25,7 +26,7 @@ export default function MovieScreen() {
 
   const [movie, setMovie] = useState({});
   const [cast, setCast] = useState([1, 2, 3, 4, 5]);
-  const [similarMovies, setSimilarMovies] = useState([]);
+  const [similarMovies, setSimilarMovies] = useState([1, 2, 3, 4, 5]);
   const [isFavourite, toggleFavourite] = useState(false);
   const [loading, setLoading] = useState(false);
 
@@ -38,7 +39,7 @@ export default function MovieScreen() {
   }, [item]);
   return (
     <ScrollView
-      contentContainerStyle={{ paddingBottom: 50 }}
+      contentContainerStyle={{ paddingBottom: 20 }}
       className="flex-1 bg-neutral-900"
     >
       <ChevronLeftIcon size="28" strokeWidth={2.5} color="white" />
@@ -102,16 +103,15 @@ export default function MovieScreen() {
       </View>
 
       {/* cast */}
-      <Cast cast={cast} />
+      <Cast cast={cast} navigation={navigation} />
 
       {/* similar movies section */}
-      {movie?.id && similarMovies.length > 0 && (
-        <MovieList
-          title={"Similar Movies"}
-          hideSeeAll={true}
-          data={similarMovies}
-        />
-      )}
+
+      <MovieList
+        title={"Similar Movies"}
+        hideSeeAll={true}
+        data={similarMovies}
+      />
     </ScrollView>
   );
 }
