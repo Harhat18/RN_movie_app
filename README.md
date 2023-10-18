@@ -1,7 +1,7 @@
 # RN_movie_app 
 
- <img src="![WhatsApp Image 2023-10-18 at 21 10 35](https://github.com/Harhat18/RN_movie_app/assets/111196660/b81c07fc-6dc4-407b-9e0c-17df90100f0d)" width="200" />
-![WhatsApp Image 2023-10-18 at 21 10 23](https://github.com/Harhat18/RN_movie_app/assets/111196660/4c5aac1e-de73-4ca5-b2ac-d171531f7c36)
-![WhatsApp Image 2023-10-18 at 21 10 23 (2)](https://github.com/Harhat18/RN_movie_app/assets/111196660/ffa37c96-4453-4b27-9bba-00cbfe361c16)
-![WhatsApp Image 2023-10-18 at 21 10 23 (1)](https://github.com/Harhat18/RN_movie_app/assets/111196660/7fc2dd72-0cca-492c-847c-ed4ebde21763)
-![WhatsApp Image 2023-10-18 at 21 10 02](https://github.com/Harhat18/RN_movie_app/assets/111196660/ba75bded-ae38-434e-9555-dea10dd9ad8f)
+![WhatsApp Image 2023-10-18 at 21](https://github.com/Harhat18/RN_movie_app/assets/111196660/e66806b8-acad-4ffa-8e1d-080ee5b5f977)
+![WhatsApp Image 2023-10-18 at 21  kopyası](https://github.com/Harhat18/RN_movie_app/assets/111196660/5637dadc-1fb9-4d7e-976e-7bed2d2d579b)
+![WhatsApp Image 2023-10-18 at 21  kopyası 2](https://github.com/Harhat18/RN_movie_app/assets/111196660/06efb0fe-f78f-4253-bfba-cd4e63d03097)
+![WhatsApp Image 2023-10-18 at 21  kopyası 3](https://github.com/Harhat18/RN_movie_app/assets/111196660/ba6ec0fd-8df1-4a75-b787-eac1e1d88279)
+![WhatsApp Image 2023-10-18 at 21  kopyası 4](https://github.com/Harhat18/RN_movie_app/assets/111196660/7a5e7549-9a8d-4f44-b317-c2509f2e130b)
