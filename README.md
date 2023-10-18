@@ -17,6 +17,6 @@ npm install // yaparak paketlerimizi yüklüyoruz
 
 yarn start
 yada
-npm start // yaparak uygulamamızı yükleyerek çalışır hale getiriyoruz.
+npm start // yaparak expo üzerinde çalışır hale getiriyoruz.
 
 
